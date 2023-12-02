@@ -15,7 +15,7 @@ const CursoForm = (props) => {
         professor: '',
         categoria: '',
         descricao: '',
-        imagem: 'https://img.freepik.com/vetores-gratis/quadro-de-matematica_23-2148178220.jpg'
+        imagem: ''
     });
 
     const handleChange = (field, value) => {
