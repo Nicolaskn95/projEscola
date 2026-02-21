@@ -1,26 +1,29 @@
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Cadastro de usuário: Admin e Normal
-- `Funcionalidade 2`: Tela Cadastro de Curso: Criar Cursos
-- `Funcionalidade 3`: Tela de Gerenciar Curso (Admin): Editar e Ativar/Desativar e pesquisar
+- **Cadastro de usuário**: Diferenciação entre níveis de acesso Admin e Normal.
+- **Cadastro de Cursos**: Interface dedicada para a criação de novos cursos no sistema.
+- **Gerenciamento (Admin)**: Painel administrativo para editar, ativar/desativar e pesquisar cursos existentes.
 
 # 📱 Telas 
 
-<div style="display:flex; flex-wrap: wrap; justify-content: space-around;">
-
-  <div style="text-align: center; margin: 10px;">
-    <br/> <p><strong>Tela Login:</strong> Cadastro do usuário</p>
-    <img src="./escola/assets/imgs/telaLogin.png" alt="telaLogin" width="200"/>
-  </div>
-
-  <div style="text-align: center; margin: 10px;">
-    <br/><p><strong>Tela Cadastro:</strong> Descrição da tela de cadastro</p>
-    <img src="./escola/assets/imgs/telaCadastro.png" alt="telaCadastro" width="200"/>
-  </div>
-
-  <div style="text-align: center; margin: 10px;">
-    <br/><p><strong>Tela Admin:</strong> Descrição da tela de administração</p>
-    <img src="./escola/assets/imgs/telaAdmin.png" alt="telaAdmin" width="200"/>
-  </div>
-
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <strong>Tela de Login</strong><br/>
+        <p>Acesso e identificação do usuário</p>
+        <img src="https://raw.githubusercontent.com/Nicolaskn95/projEscola/main/escola/assets/imgs/telaLogin.png" alt="Tela de Login" width="250"/>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <strong>Tela de Cadastro</strong><br/>
+        <p>Registro de novos alunos ou professores</p>
+        <img src="https://raw.githubusercontent.com/Nicolaskn95/projEscola/main/escola/assets/imgs/telaCadastro.png" alt="Tela de Cadastro" width="250"/>
+      </td>
+      <td align="center" valign="top" style="border: none; padding: 10px;">
+        <strong>Painel Admin</strong><br/>
+        <p>Controle central do sistema escolar</p>
+        <img src="https://raw.githubusercontent.com/Nicolaskn95/projEscola/main/escola/assets/imgs/telaAdmin.png" alt="Tela Administrativa" width="250"/>
+      </td>
+    </tr>
+  </table>
 </div>
